@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bitcoin & El Salvador - Complete Guide</title>
+</head>
+<body>
+
+    <div>
+        <h1>Bitcoin: The Digital Currency Experiment</h1>
+        <p>Welcome to this educational reference website exploring one of the most daring macroeconomic experiments of the 21st century: a sovereign nation adopting a decentralized digital asset as official currency.</p>
+        
+        <h2>The El Salvador Experiment</h2>
+        <p>In a historic move, El Salvador shocked global markets by becoming the first country in the world to elevate Bitcoin to the status of mandatory legal tender. Spearheaded by the administration, this bold economic policy drew heavy attention from global central banks, digital asset enthusiasts, and international institutions like the IMF.</p>
+        
+        <!-- Image demonstrating src, alt, width, and height attributes -->
+        <img src="https://thumbs.dreamstime.com/b/bitcoin-currency-represented-physical-coin-tangible-representation-bitcoin-emerges-as-physical-coin-blending-300851088.jpg" alt="A physical representation of a Bitcoin token" width="400" height="250">
+        
+        <p>The primary objectives of the initiative were multi-faceted. Proponents argued it would spark immediate economic development, modernize the local infrastructure, and dramatically boost tourism. Furthermore, it aimed to provide essential banking access to the unbanked sector of the population—which accounted for roughly 70% of the nation.</p>
+        
+        <p>Despite heavy government backing and infrastructure deployment, the project encountered severe hurdles. Public adoption remained sluggish, technical glitches undermined confidence, and massive asset volatility exposed state resources to market swings. Ultimately, a policy shift under a multi-billion dollar financial assistance program brought the historic legal tender status to an end.</p>
+    
+    </div>
+
+
+   
+    <div>
+        <h1>The Rise and Fall of Legal Tender</h1>
+        <p>The operational framework of El Salvador's crypto rollout was condensed into an extraordinarily tight timeline, changing decades of monetary policy in just a few short months.</p>
+        
+        <h2>Key Historical Milestones</h2>
+        <p>Below is a chronological look at Bitcoin's unique journey as a national currency:</p>
+        
+        <ol>
+            <li><strong>June 2021:</strong> President Nayib Bukele announces the proposal at a major cryptocurrency conference. Days later, the Legislative Assembly passes the groundbreaking "Bitcoin Law" with a supermajority vote.</li>
+            <li><strong>September 2021:</strong> The Bitcoin Law officially goes into effect. Bitcoin is instituted alongside the US Dollar, meaning businesses are legally required to accept it if they possess the technical means.</li>
+            <li><strong>2022 - 2024:</strong> The government introduces the state-backed "Chivo Wallet" and seeds every participating citizen's account with $30 worth of free Bitcoin to jumpstart domestic usage. Over 200 physical Bitcoin ATMs are distributed across the country to assist transaction handling.</li>
+            <li><strong>2025:</strong> Facing intense pressure from international lenders, the mandatory legal tender requirement is quietly repealed. While private, voluntary peer-to-peer usage is still permitted, the mandate to treat it as official sovereign currency is withdrawn.</li>
+        </ol>
+    </div>
+
+
+    <div>
+    <head>features</head>
+        <h1>Understanding Bitcoin Tech</h1>
+        <p>To grasp why this monetary experiment was so controversial, one must look at the unique technical characteristics built into the asset's original design.</p>
+        
+        <h2>Core Concepts of Bitcoin</h2>
+        <p>Bitcoin relies on several foundational technologies that differentiate it from traditional fiat currencies managed by central authorities:</p>
+        
+        <h3>Decentralization</h3>
+        <p>Unlike traditional fiat options like the US Dollar or Euro, no single central bank, president, or regulatory body controls the Bitcoin network. Instead, consensus and transactions are run by a globally distributed network of independent computers acting under a cryptographic framework.</p>
+
+        <h3>The Blockchain Ledger</h3>
+        <p>All transactions are verified by nodes and recorded on an open, transparent, public ledger known as the blockchain. Once a block of transactions is confirmed, the history becomes immutable, meaning it can never be altered, wiped, or counterfeited by a government or hacker.</p>
+        
+        <h3>Remittance Speed and Peer-to-Peer Architecture</h3>
+        <p>Because Bitcoin operates on a peer-to-peer network without domestic or international bank intermediaries, it allows users to route funds across international borders almost instantaneously. For developing economies reliant on citizen remittances from abroad, this promised to cut down on heavy bank transfer fees.</p>
+        
+        <h3>Strict Mathematical Scarcity</h3>
+        <p>Traditional currencies can be printed indefinitely by governments, which often triggers inflation. Bitcoin corrects for this by having a hard-coded mathematical limit; there will only ever be a maximum of 21 million Bitcoins created, mirroring the scarcity mechanics of a digital gold reserve.</p>
+        
+    </div>
+
+</body>
+</html>
