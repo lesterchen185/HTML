@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+    Background-color:cadetblue;
+}
+
+p{
+    color:darkblue;
+    font font-family: fantasy;
+    border-style: dashed;
+    border-color: cadeblue;
+    border-width: 100px
+}
+
+  git config --global user.email "chen.z@oundleschool.org.uk"
+  git config --global user.name "lesterchen185"
