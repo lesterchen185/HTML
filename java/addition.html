@@ -1,0 +1,19 @@
+<html>
+<body>
+
+    <input type = "number" id="num1"value="5">
+    <input type = "number" id="num2"value="2">
+    <button onclick="addNumbers()">Add</button>
+    <p id="result"></p>
+
+
+    <script>
+        function addNumbers() {
+            let c = document.getElementById("num1").value;
+            let d = document.getElementById("num2").value;
+
+            document.getElementById("result").innerHTML = "The value of c+d: " + (Number(c) + Number(d));
+        }
+    </script>
+</body>
+</html>    
